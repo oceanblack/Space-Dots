@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SpaceDots</title>
+    </head>
+    <body>
+        <canvas></canvas>
+    </body>
+</html>
